@@ -11,7 +11,8 @@ $Data = $obj->GetDetails();
   <div class="panel panel-primary">
   <div class="panel-heading">Mini Car Inventory System</div>
   <div class="panel-body text-center">
-	   <table id="InventoryInfo" class="display" style="width:100%">
+	<div class="x_content table-responsive">
+	   <table id="InventoryInfo"  style="width:100%">
         <thead>
             <tr>
                 <th>Manufacturer Name</th>
@@ -36,8 +37,8 @@ $Data = $obj->GetDetails();
 				} ?>
 		</tbody>
        
-    </table>
-		
+    	</table>
+  </div>
 		
             
   <div>
