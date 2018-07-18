@@ -91,7 +91,7 @@ function soldData(data){
 	var mydata = {'ModelId':data};
 	 $.ajax({
            type: "POST",
-           url: "./Ajax/soldModel",
+           url: "./Ajax/soldModel.php",
            data: mydata,
            success: function(result)
            {
