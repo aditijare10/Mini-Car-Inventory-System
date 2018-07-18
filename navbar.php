@@ -26,7 +26,7 @@
         <li id="HomeMenu"><a href="index.php">Home</a></li>
         <li id="ManufacturerMenu"><a href="AddManufacturer.php">Add Manufacturer</a></li>
         <li id="ModelMenu"><a href="AddModel.php">Add Model</a></li>
-        <li Id="InventiryMenu"><a href="ManageInventory">Manage Model Inventory</a></li>
+        <li Id="InventiryMenu"><a href="ManageInventory.php">Manage Model Inventory</a></li>
       </ul>
      
     </div>
